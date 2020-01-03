@@ -17,12 +17,12 @@ sections:
       <!--StartFragment-->
 
 
-      ## Training, Market Access & Business development for the Agricultural
-      Industry
+      ### *How? Training, Market Access & Business development for the
+      Agricultural Industry*
 
 
       <!--EndFragment-->
-    image: /images/ian-kiragu-gsh_pwszspq-unsplash.jpg
+    image: /images/farm.jpg
     section_id: hero
     title: We help African farmers and businesses
     type: section_hero
