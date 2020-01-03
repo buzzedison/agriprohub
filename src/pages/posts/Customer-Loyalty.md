@@ -1,27 +1,44 @@
 ---
-title: Customer Loyalty Programs That Stick
-subtitle: A story about customer loyalty
-date: '2019-04-23'
-thumb_img_path: images/3_thumb.jpg
-img_path: images/3.jpg
+title: 'IGNITE. A PROGRAM TO CONNECT LIKE-MINDED WOMEN IN AGRIBUSINESS '
+subtitle: ' INSPIRE THEM TO TAKE ACTION AND TURN GROUND- BREAKING IDEAS INTO PROFITABLE AND SUSTAINABLE AGRIBUSINESSES.'
+date: 2019-10-04T00:00:00.000Z
+thumb_img_path: /images/ig-2.jpg
+img_path: /images/ig-2.jpg
 excerpt: >-
-  A story about customer loyalty curabitur sed consectetur nisi. Integer sit
-  amet commodo massa.
+  Guzakuza in partnership with AgriPro bring you Ignite 2019. It is getting
+  better, bigger and with a more directed and focused approach. Ignite 2019 with
+  the theme ‘inspire action’ will motivate participants to take action in
+  various aspects of their Agribusinesses.
 template: post
 ---
 
-**Loyalty** curabitur sed consectetur nisi. Integer sit amet commodo massa. Cras posuere justo magna, id placerat ligula vulputate malesuada. Aenean a ipsum quis neque ornare placerat eu eu orci. Nullam feugiat sed ante in euismod. Pellentesque a nibh dolor. Donec ultrices lacus eget orci commodo ultricies. Morbi placerat purus non varius egestas. Ut tempus ligula quis lorem suscipit, sed vulputate dolor placerat. Aliquam ut massa placerat, vehicula erat non, mattis leo. Pellentesque egestas velit sit amet lectus lobortis, sit amet pharetra ipsum porta. Nullam massa nulla, tincidunt vel volutpat vel, commodo id leo. Curabitur id volutpat lacus, sed commodo velit. Quisque facilisis consectetur nisl vitae vulputate. Proin porttitor ipsum ut diam faucibus, scelerisque posuere ex euismod. Aenean posuere bibendum egestas.
 
-## Customer
 
-Praesent ut cursus enim, sit amet dictum turpis. Etiam justo orci, consectetur aliquet rhoncus sed, hendrerit vel odio. Etiam pharetra neque vel gravida tincidunt. Etiam consequat commodo elit id eleifend. Nullam eu justo eu odio pretium feugiat. Sed non neque dui. Fusce leo erat, imperdiet quis pulvinar vitae, consequat quis dolor. Curabitur eu quam et odio vehicula auctor convallis nec ipsum. Nam vitae dui sapien. Pellentesque vitae lorem id ipsum lacinia consectetur id a erat. Nulla semper ut erat vel vulputate. Nulla sagittis dui ut dapibus euismod. Phasellus et dui posuere, lobortis erat a, pretium nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas molestie ut tellus in convallis. Cras luctus urna quis velit volutpat, semper venenatis mauris auctor.
 
-## Loyalty Programs
+[Guzakuza](http://agriprohub.com/www.guzakuza.org) in partnership with [AgriPro](https://www.agriprohub.com/) bring you Ignite 2019. It is getting better, bigger and with a more directed and focused approach. Ignite 2019 with the theme ‘inspire action’ will motivate participants to take action in various aspects of their Agribusinesses.
 
-Aenean dui sem, sollicitudin non venenatis eget, gravida rutrum risus. Proin massa leo, convallis id orci at, convallis dignissim mi. Integer et arcu arcu. Sed tristique diam id elit iaculis accumsan. Donec vehicula libero nunc, quis dictum orci pharetra nec. Proin blandit pellentesque sapien et sodales. Phasellus convallis sapien venenatis semper iaculis. Curabitur commodo iaculis mi, nec gravida nunc pellentesque ac. Nullam ac felis est. Donec gravida arcu ipsum, ut pulvinar est scelerisque id. Duis lobortis ante eu ante volutpat, quis pharetra sapien mattis. Sed ex enim, accumsan ut volutpat a, consectetur iaculis urna. Donec tempus enim sed porta euismod.
+From the classroom to the farm to the board room, women should be at the fore front of agricultural development, paving the way for a brighter future and ensuring food security. Young women face so many barriers to entry in their quest to venture into agribusiness. Some of those barriers include technical know-how, market access limitations, limited access to funding, cultural pressure and lack of a structured mentorship support system. It is for this reason that Guzakuza started Ignite, an African Women in Agribusiness Programme.
 
-> The strength of brand loyalty begins with how your product makes people feel. - Jay Samit
+**Ignite 2017 and 2018 provided opportunities and served as a platform for participants to be educated,nurtured and empowered to build sustainable food businesses, spend some quality time on their business models devoid of any form of distraction and improve their personal development.**
 
-Nam mauris leo, mattis in finibus sit amet, mattis vitae libero. In sed leo purus. Fusce ac suscipit nisl. Vestibulum tristique neque nec lacus finibus porta. In erat libero, pellentesque non sodales quis, mollis a elit. Vestibulum viverra dui ut ornare maximus. Aliquam at odio quis magna convallis euismod.
+## IGNITE FOR CHANGE- RESIDENTIAL TRAINING
 
-Integer nisi nisi, hendrerit a ultrices ut, facilisis at odio. Suspendisse aliquet sed magna in bibendum. Praesent sit amet tincidunt purus. Cras sollicitudin at ante semper feugiat. Sed sem sem, dignissim id aliquet ac, interdum fringilla ipsum. Proin laoreet metus leo, et tempor felis aliquam at. Cras eget urna vehicula, elementum tellus a, tempor odio. Morbi pretium augue erat, et suscipit metus varius non. Quisque vitae lectus id mi consequat laoreet. Nam non molestie elit. Proin iaculis vel ex non rhoncus. Donec metus velit, blandit quis arcu quis, venenatis sodales velit.
+We at Ignite believe that one of the best ways to learn, is to stay away from all forms of distraction. As such, our participants will be staying in a residence for six weeks, where they get the space and time to develop exponentially. Participants get the rare opportunity to retreat, learn, relax, collaborate, and spend ample time on their businesses.
+
+### IGNITE WITHIN- ONLINE
+
+We see a burning desire in most of our participants to make a dent in the society. This desire is illuminated and guided by our structured online assessment program seeking to help participants discover themselves, gifts, talents, as well as hidden biases and beliefs that could be getting in the way of succeeding in business.\
+Our online support puts the mirror right in front of the participants to assess self and discover greatness.
+
+### REACH TO IGNITE- INTERNSHIPS
+
+We provide tailor made work experience embedded into the program. Our internship can be likened to an apprenticeship where participants go through a four-week on-the-job training with our partner organizations’.
+
+### KEY ACTIVITIES
+
+* Residential Training
+* Internship
+* Coaching
+* Mentoring
+* Funding
+* Exposure/Networking
