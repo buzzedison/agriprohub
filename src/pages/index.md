@@ -4,22 +4,10 @@ sections:
   - actions:
       - label: Learn More
         url: /features
-    content: >-
+    content: |-
       <!--StartFragment-->
-
 
       Produce the best possible food and agriculture products.
-
-
-      <!--EndFragment-->
-
-
-      <!--StartFragment-->
-
-
-      ### *How? Training, Market Access & Business development for the
-      Agricultural Industry*
-
 
       <!--EndFragment-->
     image: /images/farm.jpg
@@ -73,9 +61,7 @@ sections:
         image: /images/business-dev.jpg
         title: Business Development
     section_id: features
-    subtitle: >-
-      Training, Market Access & Business development for the Agricultural
-      Industry
+    subtitle: 'Training, Market Access & Business development'
     title: OUR SERVICES
     type: section_features
   - bg: white
