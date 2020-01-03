@@ -32,11 +32,18 @@ sections:
           - label: Learn More
             url: /features
         content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
-        image: images/feature1.png
-        title: The Best Feature of Your Services
+          <!--StartFragment-->
+
+
+          Agriculture and food industry, markets and trade opportunities. We
+          organize markets across Africa,We provide information and support on
+          how to market and sell products around the world.We want to help you
+          access markets in Ghana and around the world.
+
+
+          <!--EndFragment-->
+        image: /images/access_gateway_02.png
+        title: Market Access
       - actions:
           - label: Learn More
             url: /features
@@ -57,9 +64,9 @@ sections:
         title: Cool Feature of Your Services
     section_id: features
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
-    title: Features
+      Training, Market Access & Business development for the Agricultural
+      Industry
+    title: OUR SERVICES
     type: section_features
   - bg: white
     reviews:
