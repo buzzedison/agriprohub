@@ -54,11 +54,9 @@ OPERATIONS MANAGEMENT
 
 INCUBATION
 
-We provide technical support for startups and/or new ideas in growing companies.
-
-Testing/ Prototyping and professional advice
-
-Successfully moving businesses from ideation to implementation
+* We provide technical support for startups and/or new ideas in growing companies.
+* Testing/ Prototyping and professional advice
+* Successfully moving businesses from ideation to implementation
 
 <!--EndFragment-->
 
