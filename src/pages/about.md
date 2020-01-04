@@ -9,7 +9,7 @@ menus:
     title: 'About us '
   secondary:
     title: About Us
-    weight: 1
+    weight: 0
 template: page
 ---
 
