@@ -36,3 +36,16 @@ BUSINESS CASE
 Providing justification for your new agribusiness venture including but not limited to cost implications, expected revenue and profit, management, processes and procedures, expertise required, strategy, effective implementation outline and recommendations.
 
 <!--EndFragment-->
+
+<!--StartFragment-->
+
+OPERATIONS MANAGEMENT
+
+* Managing the production process for your goods and services. Includes:
+* Office/Administrative management
+* Business communications
+* Website development and maintenance
+* Business systems and procedures
+* Recruitment
+
+<!--EndFragment-->
