@@ -66,15 +66,11 @@ Successfully moving businesses from ideation to implementation
 
 TRAINING
 
-In-houseand external trainings and workshops on:
-
-Starting your own farm
-
-Farm Management
-
-Financial Management
-
-Administrative Management
+* In-house and external training and workshops on:
+* Starting your own farm
+* Farm Management
+* Financial Management
+* Administrative Management
 
 <!--EndFragment-->
 
@@ -82,20 +78,15 @@ Administrative Management
 
 FINANCIAL MANAGEMENT
 
-Financial planning
-
-Book keeping systems
-
-Inventory management
-
-Preparation and Analysis of financial statements
+* Financial planning
+* Book keeping systems
+* Inventory management
+* Preparation and Analysis of financial statements
 
 PRODUCT DEVELOPMENT
 
-Improving existing products/services to better suit your customers’ needs
-
-Creating and maintaining new products to suit the customer
-
-Enlarging product reach/market
+* Improving existing products/services to better suit your customers’ needs
+* Creating and maintaining new products to suit the customer
+* Enlarging product reach/market
 
 <!--EndFragment-->
