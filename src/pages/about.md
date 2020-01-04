@@ -6,7 +6,7 @@ subtitle: >-
 img_path: images/about.jpg
 menus:
   main:
-    title: 'About us '
+    title: ''
   secondary:
     title: About Us
     weight: 0
