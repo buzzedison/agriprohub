@@ -49,3 +49,53 @@ OPERATIONS MANAGEMENT
 * Recruitment
 
 <!--EndFragment-->
+
+<!--StartFragment-->
+
+INCUBATION
+
+We provide technical support for startups and/or new ideas in growing companies.
+
+Testing/ Prototyping and professional advice
+
+Successfully moving businesses from ideation to implementation
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
+TRAINING
+
+In-houseand external trainings and workshops on:
+
+Starting your own farm
+
+Farm Management
+
+Financial Management
+
+Administrative Management
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
+FINANCIAL MANAGEMENT
+
+Financial planning
+
+Book keeping systems
+
+Inventory management
+
+Preparation and Analysis of financial statements
+
+PRODUCT DEVELOPMENT
+
+Improving existing products/services to better suit your customers’ needs
+
+Creating and maintaining new products to suit the customer
+
+Enlarging product reach/market
+
+<!--EndFragment-->
