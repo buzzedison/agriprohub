@@ -90,3 +90,21 @@ PRODUCT DEVELOPMENT
 * Enlarging product reach/market
 
 <!--EndFragment-->
+
+AGRO TOURISM
+
+<!--StartFragment-->
+
+Working farm, or agricultural plant conducted for the enjoyment of visitors that generates supplemental income for the owner.<!--StartFragment-->
+
+* Outdoor recreation (fishing, wildlife study).
+* Educational experiences (tours, cooking classes, or food tasting).
+* Entertainment (harvest festivals or green markets).
+* Hospitality services (farm stays, or guided tours).
+* On-farm direct sales (u-pick operations or roadside stands).
+
+<!--EndFragment-->
+
+
+
+<!--EndFragment-->
