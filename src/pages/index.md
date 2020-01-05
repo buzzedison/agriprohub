@@ -25,7 +25,7 @@ sections:
 
           Agriculture and food industry, markets and trade opportunities. We
           organize markets across Africa,We provide information and support on
-          how to market and sell products around the world.We want to help you
+          how to market and sell products around the world. We want to help you
           access markets in Ghana and around the world.
 
 
@@ -41,7 +41,7 @@ sections:
 
           We show you the best way to grow your crops, livestock and business.
           We are transforming this into a full-fledged agribusiness innovation
-          school by November, 2019
+          school by November, 2020
 
 
           <!--EndFragment-->
