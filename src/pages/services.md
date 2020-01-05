@@ -23,8 +23,6 @@ Connecting farmers/sellers with buyers/consumers through:
 
 <!--EndFragment-->
 
-
-
 <!--StartFragment-->
 
 BUSINESS CASE
@@ -103,6 +101,8 @@ Working farm, or agricultural plant conducted for the enjoyment of visitors that
 
 <!--EndFragment-->
 
-
-
 <!--EndFragment-->
+
+WE CAN'T WAIT TO WORK WITH YOU!
+
+## [CONTACT US NOW!](https://agriprohub.com/contact/)
