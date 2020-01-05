@@ -34,7 +34,7 @@ sections:
         title: Market Access
       - actions:
           - label: Learn More
-            url: /features
+            url: /training
         content: >-
           <!--StartFragment-->
 
