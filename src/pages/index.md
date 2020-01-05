@@ -48,8 +48,8 @@ sections:
         image: /images/training.jpg
         title: Training & Capacity building
       - actions:
-          - label: Learn More
-            url: /features
+          - label: Contact Us
+            url: /contact
         content: >-
 
 
