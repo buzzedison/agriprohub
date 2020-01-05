@@ -3,7 +3,7 @@ title: Home
 sections:
   - actions:
       - label: Learn More
-        url: /features
+        url: /training
     content: |-
       <!--StartFragment-->
 
