@@ -66,7 +66,7 @@ sections:
     type: section_features
   - actions:
       - label: Get Started
-        url: /signup
+        url: /contact
     section_id: call-to-action
     subtitle: 'TALK TO US, WE CAN HELP!'
     title: Interested in starting out in agribusiness?
