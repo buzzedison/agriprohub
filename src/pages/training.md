@@ -1,6 +1,6 @@
 ---
 title: Training
-img_path: /images/urban.jpg
+img_path: /images/farming-coursebsmall.png
 template: page
 ---
 ## Sustainable Farming Course:
