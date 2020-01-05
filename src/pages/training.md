@@ -24,4 +24,4 @@ template: page
 
 **FEE: 450 GHC only**
 
-**REGISTER HERE:**
+## **[REGISTER HERE: ](https://egotickets.com/events/sustainable-farming-course)**
