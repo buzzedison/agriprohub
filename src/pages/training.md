@@ -22,6 +22,6 @@ template: page
 
 ### Space is limited so if you'd like to attend, we recommend registering soon. Includes visit to farms.
 
-**FEE: 450 GHC only**
+**FEE: 450 GHC only. Register before 10th February and get it for GHC 350.** 
 
 ## **[REGISTER HERE: ](https://egotickets.com/events/sustainable-farming-course)**
