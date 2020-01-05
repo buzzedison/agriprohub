@@ -1,5 +1,5 @@
 ---
-title: Sign up
+title: Signup
 template: page
 ---
 Coming soon...
